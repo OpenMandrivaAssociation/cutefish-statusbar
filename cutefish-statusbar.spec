@@ -1,3 +1,5 @@
+%define _empty_manifest_terminate_build 0
+
 %define oname statusbar
 
 Name:           cutefish-statusbar
