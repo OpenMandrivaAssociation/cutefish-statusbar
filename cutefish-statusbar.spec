@@ -4,7 +4,7 @@
 
 Name:           cutefish-statusbar
 Version:        0.7
-Release:        1
+Release:        2
 Summary:        Top status bar
 License:        GPL-3.0-or-later
 Group:          System/GUI/Other
